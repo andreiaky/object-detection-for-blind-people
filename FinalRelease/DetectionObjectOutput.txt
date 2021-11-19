@@ -1,0 +1,21 @@
+-- ClassID: 77
+   -- Confidence: 0.800293
+   -- Left:    109.453
+   -- Top:     0
+   -- Right:   320.938
+   -- Bottom:  402.656
+   -- Width:   211.484
+   -- Height:  402.656
+   -- Area:    85155.5
+   -- Center:  (215.195, 201.328)
+
+   These are the parameters that are within this object. We can use them as needed.
+   Notes:
+    (1). these are decimal places, floating values or double. In reality when we talk
+        about pixels these numbers should be integers. SOLUTION: We convert this values
+        to integers.
+    (2). the object type detected is represented by a number (our case 77 which means keyboard using
+        the SSD-mobile-network-v2)
+        This value represents the position value of the object in the network file.
+        We have to find the corresponding name of the class.
+        
